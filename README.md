@@ -1,2 +1,2 @@
-# Tic Tac Toe GUI
+# Tic Tac Toe GUI made with Tkinter
  
